@@ -25,5 +25,8 @@
     "angular-qr": "^0.2.0",
     "angular-chart.js": "^0.10.2",
     "fingerprintjs2": "^1.4.0"
+  },
+  "resolutions": {
+    "angular": "^1.5.7"
   }
 }
